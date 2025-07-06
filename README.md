@@ -1,10 +1,10 @@
-# Rubik's Cube Solver 🧩
+o# Rubik's Cube Solver 🧩
 
 A Python project that intelligently solves a 3x3 Rubik's Cube using the Beginner's Method. The solver features:
 
 ✅ Intelligent detection of cube state  
 ✅ Step-by-step move instructions  
-✅ GUI visualization of all 6 faces  
+✅ GUI visualization of all 6 faces hello 
 ✅ User-friendly input system  
 
 ## Technologies Used
