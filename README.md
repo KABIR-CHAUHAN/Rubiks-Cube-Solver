@@ -4,7 +4,7 @@ A Python project that intelligently solves a 3x3 Rubik's Cube using the Beginner
 
 ✅ Intelligent detection of cube state  
 ✅ Step-by-step move instructions  
-✅ GUI visualization of all 6 faces hello 
+✅ GUI visualization of all 6 faces
 ✅ User-friendly input system  
 
 ## Technologies Used
